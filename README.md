@@ -16,23 +16,23 @@ Cursando Ensino Médio Técnico em Desenvolvimento de Sistemas – SENAI
 
 ## <b> Habilidades </b>
 
-Microsoft Word e PowerPoint - Intermediário
+<B> Microsoft Word e PowerPoint </B> - Intermediário
 
-Canva - Intermediário
+<B> Canva </B> - Intermediário
 
-Comandos no terminal LINUX - Básico
+<B> Comandos no terminal LINUX </B> - Básico
 
-Fundamentos de rede - Básico
+<B> Fundamentos de rede </B> - Básico
 
-Hardware - Intermediário
+<B> Hardware </B> - Intermediário
 
-Software - Básico
+<B> Software </B> - Básico
 
-Programação JAVA - Básico
+<B> Programação JAVA </B> - Básico
 
 ## <b> Idiomas </b>
 
-Inglês - Intermediário
+<b> Inglês </b> - Intermediário
 
-Espanhol - Básico
+<b> Espanhol </b> - Básico
 
