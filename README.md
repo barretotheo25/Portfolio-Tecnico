@@ -1,6 +1,6 @@
 # Portfólio Técnico de Desenvolvimento de Sistemas
 ## <b> Informações Gerais </b>
-<b> Théo Barreto Silva </b>
+<b> Nome: </b> Théo Barreto Silva 
 
 <b> E-mail: </b> barretotheo25@gmail.com
 
