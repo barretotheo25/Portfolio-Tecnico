@@ -8,4 +8,4 @@
 
 <b> Endereço: </b> Avenida Salvador di Bernardi, 680 - Apto. 1401 - Campinas, São José
 
-
+### <b> Formação Acadêmica </b>
