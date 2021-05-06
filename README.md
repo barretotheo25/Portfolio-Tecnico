@@ -6,7 +6,7 @@
 
 <b> Telefone para contato: </b> (48) 99122-7701
 
-<b> Endereço: </b> Avenida Salvador di Bernardi, 680 - Apto. 1401 - Campinas, São José
+<b> Bairro de moradia: </b> Campinas, São José
 
 ## <b> Formação Acadêmica </b>
 
