@@ -10,9 +10,9 @@
 
 ## <b> Formação Acadêmica </b>
 
-Ensino Fundamental I e II - Colégio Gardner (2009 - 2019)
+<b> Ensino Fundamental I e II </B> - Colégio Gardner (2009 - 2019)
 
-Cursando Ensino Médio Técnico em Desenvolvimento de Sistemas – SENAI
+<b> Ensino Médio Técnico em Desenvolvimento de Sistemas </B> – SENAI (2020 - Cursando)
 
 ## <b> Habilidades </b>
 
