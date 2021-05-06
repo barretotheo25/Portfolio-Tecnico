@@ -8,8 +8,9 @@
 
 <b> Endereço: </b> Avenida Salvador di Bernardi, 680 - Apto. 1401 - Campinas, São José
 
-### <b> Formação Acadêmica </b>
+## <b> Formação Acadêmica </b>
 
 Ensino Fundamental I e II - Colégio Gardner (2009 - 2019)
 
 Cursando Ensino Médio Técnico em Desenvolvimento de Sistemas – SENAI
+
