@@ -6,7 +6,7 @@ maior=0
 for i in $(seq 1 15)
 do
   echo "O preço de $i produto:"
-  real val
+  read val
   if [ $val -gt $maior ]
   then
     maior=$val
