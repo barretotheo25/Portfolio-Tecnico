@@ -14,6 +14,6 @@ do
   
   soma=$((soma+i))
 done
-media=$(bc <<< scale=2;$soma/15)
+media=$(bc <<< "scale=2;$soma/15")
 echo "A média dos preços é $media!"
 echo "O maior valor é $maior!"
