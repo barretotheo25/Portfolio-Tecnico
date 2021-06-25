@@ -4,8 +4,8 @@
 
 echo "Digite um valor"
 read N
-  if [ $N -gt 0 ]
-  then
+if [ $N -gt 0 ]
+then
   
     for i in $(seq 1 $N)
     do
