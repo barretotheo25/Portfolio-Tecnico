@@ -6,7 +6,7 @@
 
 <b> Telefone para contato: </b> (48) 99122-7701
 
-<b> Bairro de moradia: </b> Campinas, São José
+<b> Bairro de moradia: </b> Campinas - São José
 
 ## <b> Formação Acadêmica </b>
 
@@ -19,6 +19,9 @@
 <B> Microsoft Word e PowerPoint </B> - Intermediário
 
 <B> Canva </B> - Intermediário
+![]("C:\Users\barre\OneDrive\Imagens\Barroco - Video explicativo.png")
+![]("C:\Users\barre\OneDrive\Imagens\Cartaz Neston.png")
+![]("C:\Users\barre\OneDrive\Imagens\Fogueira no Quintal Aniversário de 15 anos Convite.png")
 
 <B> Comandos no terminal LINUX </B> - Básico
 
