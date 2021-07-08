@@ -20,6 +20,10 @@
 
 <B> Canva </B> - Intermediário
 
+![]("C:\Users\barre\OneDrive\Imagens\Barroco - Video explicativo.png")
+![]("C:\Users\barre\OneDrive\Imagens\Cartaz Neston.png")
+![]("C:\Users\barre\OneDrive\Imagens\Fogueira no Quintal Aniversário de 15 anos Convite.png")
+
 <B> Comandos no terminal LINUX </B> - Básico
 
 <B> Fundamentos de rede </B> - Básico
