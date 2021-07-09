@@ -38,4 +38,4 @@
 
 ## <b> Exemplos Scripts </b>
 
-[votação] (Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\votação.sh")
+[votação](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\votação.sh)
