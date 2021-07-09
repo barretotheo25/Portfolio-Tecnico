@@ -19,9 +19,8 @@
 <B> Microsoft Word e PowerPoint </B> - Intermediário
 
 <B> Canva </B> - Intermediário
-![]("C:\Users\barre\OneDrive\Imagens\Barroco - Video explicativo.png")
-![]("C:\Users\barre\OneDrive\Imagens\Cartaz Neston.png")
-![]("C:\Users\barre\OneDrive\Imagens\Fogueira no Quintal Aniversário de 15 anos Convite.png")
+https://github.com/barretotheo25/Portfolio-Tecnico-2B/issues/1#issue-940689243
+https://github.com/barretotheo25/Portfolio-Tecnico-2B/issues/2#issue-940689571
 
 <B> Comandos no terminal LINUX </B> - Básico
 
