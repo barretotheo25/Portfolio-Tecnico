@@ -38,4 +38,8 @@
 
 ## <b> Exemplos Scripts </b>
 
-[votação](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\votação.sh)
+[Script Votação](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\votação.sh)
+[Script Positivo e Negativo](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\positivo_negativo.sh)
+[Script Valor N](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\valor_n.sh)
+[Script Ordem decrescente](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\ordem_decrescente.sh)
+[Script Ordem crescente](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\ordem_crescente.sh)
