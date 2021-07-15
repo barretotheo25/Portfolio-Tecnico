@@ -36,7 +36,7 @@
 
 <b> Espanhol </b> - Básico
 
-## <b> Exemplos Scripts - Fundamentos de TI </b>
+## <b> Exemplos Shell - Fundamentos de TI </b>
 
 * [Script Votação](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\votação.sh)
 
@@ -48,4 +48,4 @@
 
 * [Script Ordem crescente](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\ordem_crescente.sh)
 
-## <b> Exemplos Scripts - Lógica Computacional </b>
+## <b> Exemplos Java - Lógica Computacional </b>
