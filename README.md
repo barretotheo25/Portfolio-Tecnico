@@ -39,14 +39,13 @@
 ## <b> Exemplos Shell - Fundamentos de TI </b>
 
 * [Script Votação](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\votação.sh)
-##### - (Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
-
+###### - Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
 * [Script Positivo e negativo](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\positivo_negativo.sh)
-
+###### - Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.
 * [Script Valor n](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\valor_n.sh)
-
-* [Script Ordem decrescente](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\ordem_decrescente.sh)
-
-* [Script Ordem crescente](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\ordem_crescente.sh)
-
+###### - Esse script vai pedir ao usuário um valor N e irá imprimir todos os valores entre 1 e N.
+* [Script Produtos](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\produtos.sh)
+###### - Esse script vai pedir o preço de 15 produtos, em seguida irá calcular e escrever o maior preço lido e a média aritmética dos preços dos produtos
+* [Script Vetor_nomes_codigoparada](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\vetor_nomes_codigoparada.sh)
+###### - Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.
 ## <b> Exemplos Java - Lógica Computacional </b>
