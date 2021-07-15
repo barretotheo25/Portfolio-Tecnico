@@ -38,19 +38,28 @@
 
 ## <b> Exemplos Shell - Fundamentos de TI </b>
 
-* [Script Votação](\FundamentosTI\exemplos\votação.sh)
-#### - Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
+### <b> If/Else </b>
 
-* [Script Positivo e negativo](FundamentosTI\exemplos\positivo_negativo.sh)
-#### - Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.
+* [Votação](\FundamentosTI\exemplos\votação.sh)
+##### - Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
 
-* [Script Valor n](FundamentosTI\exemplos\valor_n)
-#### - Esse script vai pedir ao usuário um valor N e irá imprimir todos os valores entre 1 e N.
+* [Positivo e negativo](FundamentosTI\exemplos\positivo_negativo.sh)
+##### - Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.
 
-* [Script Produtos](\FundamentosTI\exemplos\produtos.sh)
-#### - Esse script vai pedir o preço de 15 produtos, em seguida irá calcular e escrever o maior preço lido e a média aritmética dos preços dos produtos
+### <b> While </b>
 
-* [Script Vetor_nomes_codigoparada](\FundamentosTI\exemplos\vetor_nomes_codigoparada.sh)
-#### - Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.
+* [Ordem Crescente](FundamentosTI\exemplos\ordem_crescente.sh)
+##### - Esse script vai imprimir os números de 1 a 10 em ordem crescente.
+
+* [Ordem Decrescente](FundamentosTI\exemplos\ordem_decrescente.sh)
+##### - Esse script vai imprimir os números de 1 a 10 em ordem decrescente.
+
+### <b> For </b>
+
+* [Vetor_3nomes_for](FundamentosTI\exemplos\vetor_3nomes_for.sh)
+##### - Esse script vai fazer um loop com 3 nomes, utilizando o for, ele vai imprimir "Oi, eu sou ____".
+
+* [Vetor_nomes_codigoparada](\FundamentosTI\exemplos\vetor_nomes_codigoparada.sh)
+##### - Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.
 
 ## <b> Exemplos Java - Lógica Computacional </b>
