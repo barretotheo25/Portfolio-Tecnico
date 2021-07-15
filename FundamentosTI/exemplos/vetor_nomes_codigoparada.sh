@@ -1,6 +1,6 @@
 #!/bin/bash
 # autor Théo Barreto Silva
-# descrição Esse script vai edir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.
+# descrição Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.
 
 cod_parada="exit"
 nome=""
