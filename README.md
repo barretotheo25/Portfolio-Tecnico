@@ -40,6 +40,8 @@
 
 * [Script Votação](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\votação.sh)
 
+(Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
+
 * [Script Positivo e negativo](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\positivo_negativo.sh)
 
 * [Script Valor n](Portfolio_2B\Portfolio-Tecnico-2B\FundamentosTI\exemplos\valor_n.sh)
