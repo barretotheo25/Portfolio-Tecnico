@@ -20,8 +20,6 @@
 
 <B> Canva </B> - Intermediário
 
-* [Projeto SaferStick](https://www.canva.com/design/DAD-_bzutJQ/dnkp3kfD5nquaJCBHQ62hw/watch?utm_content=DAD-_bzutJQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
 <B> Comandos no terminal LINUX </B> - Básico
 
 <B> Fundamentos de rede </B> - Básico
@@ -63,6 +61,12 @@
 
 * [Vetor_nomes_codigoparada](\FundamentosTI\exemplos\vetor_nomes_codigoparada.sh)
 ##### - Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.
+
+### <b> Outros </b>
+
+* [List_usuarios](\FundamentosTI\exemplos\list_usuarios.sh)
+
+* [Permissao_dono](\FundamentosTI\exemplos\permissao_dono.sh)
 
 ## <b> Exemplos Java - Lógica Computacional </b>
 
