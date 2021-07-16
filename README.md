@@ -20,6 +20,8 @@
 
 <B> Canva </B> - Intermediário
 
+* [Projeto SaferStick](https://www.canva.com/design/DAD-_bzutJQ/dnkp3kfD5nquaJCBHQ62hw/watch?utm_content=DAD-_bzutJQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 <B> Comandos no terminal LINUX </B> - Básico
 
 <B> Fundamentos de rede </B> - Básico
@@ -38,7 +40,7 @@
 
 ## <b> Exemplos Shell - Fundamentos de TI </b>
 
-### <b> If/Else </b>
+### <b> -If/Else- </b>
 
 * [Votação](\FundamentosTI\exemplos\votação.sh)
 ##### - Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
