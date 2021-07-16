@@ -65,8 +65,10 @@
 ### <b> Outros </b>
 
 * [List_usuarios](\FundamentosTI\exemplos\list_usuarios.sh)
+##### - Esse script vai retornar todos os nomes dos usuários do sistema. (Até os que não são seres humanos)
 
 * [Permissao_dono](\FundamentosTI\exemplos\permissao_dono.sh)
+##### - Esse script vai receber como parâmetro um nome de um arquivo ou diretório e diga quais permissões o usuário dono tem.
 
 ## <b> Exemplos Java - Lógica Computacional </b>
 
