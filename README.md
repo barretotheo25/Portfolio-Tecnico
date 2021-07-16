@@ -42,7 +42,7 @@
 
 ### <b> -If/Else- </b>
 
-* [Votação](\FundamentosTI\exemplos\votação.sh)
+* [Votação](/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/votação.sh)
 ##### - Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
 
 * [Positivo e negativo](FundamentosTI\exemplos\positivo_negativo.sh)
@@ -65,3 +65,5 @@
 ##### - Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.
 
 ## <b> Exemplos Java - Lógica Computacional </b>
+
+* [Vetores](\Portfolio_2B\Portfolio-Tecnico-2B\LogicaComputacional\exemplos\Vetores.java)
