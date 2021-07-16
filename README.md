@@ -42,23 +42,23 @@
 
 ### <b> -If/Else- </b>
 
-* [Votação](/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/votação.sh)
+* [Votação](\FundamentosTI/exemplos/votação.sh)
 ##### - Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
 
-* [Positivo e negativo](FundamentosTI\exemplos\positivo_negativo.sh)
+* [Positivo e negativo](\FundamentosTI\exemplos\positivo_negativo.sh)
 ##### - Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.
 
 ### <b> While </b>
 
-* [Ordem Crescente](FundamentosTI\exemplos\ordem_crescente.sh)
+* [Ordem Crescente](\FundamentosTI\exemplos\ordem_crescente.sh)
 ##### - Esse script vai imprimir os números de 1 a 10 em ordem crescente.
 
-* [Ordem Decrescente](FundamentosTI\exemplos\ordem_decrescente.sh)
+* [Ordem Decrescente](\FundamentosTI\exemplos\ordem_decrescente.sh)
 ##### - Esse script vai imprimir os números de 1 a 10 em ordem decrescente.
 
 ### <b> For </b>
 
-* [Vetor_3nomes_for](FundamentosTI\exemplos\vetor_3nomes_for.sh)
+* [Vetor_3nomes_for](\FundamentosTI\exemplos\vetor_3nomes_for.sh)
 ##### - Esse script vai fazer um loop com 3 nomes, utilizando o for, ele vai imprimir "Oi, eu sou ____".
 
 * [Vetor_nomes_codigoparada](\FundamentosTI\exemplos\vetor_nomes_codigoparada.sh)
@@ -66,4 +66,8 @@
 
 ## <b> Exemplos Java - Lógica Computacional </b>
 
-* [Vetores](\Portfolio_2B\Portfolio-Tecnico-2B\LogicaComputacional\exemplos\Vetores.java)
+* [Vetores](LogicaComputacional\exemplos\Vetores.java)
+
+* [Idade Atual](\LogicaComputacional\exemplos\Idade Atual.java)
+
+* [Programa de Juros](\LogicaComputacional\exemplos\Programa_juros.java)
