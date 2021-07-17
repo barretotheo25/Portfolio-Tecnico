@@ -74,6 +74,6 @@
 
 * [Vetores](LogicaComputacional\exemplos\Vetores.java)
 
-* [Idade Atual](\LogicaComputacional\exemplos\Idade Atual.java)
+* [Idade Atual](\LogicaComputacional\exemplos\Idade_atual.java)
 
 * [Programa de Juros](\LogicaComputacional\exemplos\Programa_juros.java)
