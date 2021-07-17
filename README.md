@@ -41,34 +41,34 @@
 ### If/Else
 
 * [Votação](\FundamentosTI/exemplos/votação.sh)
-##### - Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
+##### (Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
 
 * [Positivo e negativo](\FundamentosTI\exemplos\positivo_negativo.sh)
-##### - Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.
+##### (Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.)
 
 ### While
 
 * [Ordem Crescente](\FundamentosTI\exemplos\ordem_crescente.sh)
-##### - Esse script vai imprimir os números de 1 a 10 em ordem crescente.
+##### (Esse script vai imprimir os números de 1 a 10 em ordem crescente.)
 
 * [Ordem Decrescente](\FundamentosTI\exemplos\ordem_decrescente.sh)
-##### - Esse script vai imprimir os números de 1 a 10 em ordem decrescente.
+##### (Esse script vai imprimir os números de 1 a 10 em ordem decrescente.)
 
 ### For
 
 * [Vetor_3nomes_for](\FundamentosTI\exemplos\vetor_3nomes_for.sh)
-##### - Esse script vai fazer um loop com 3 nomes, utilizando o for, ele vai imprimir "Oi, eu sou ____".
+##### (Esse script vai fazer um loop com 3 nomes, utilizando o for, ele vai imprimir "Oi, eu sou ____".)
 
 * [Vetor_nomes_codigoparada](\FundamentosTI\exemplos\vetor_nomes_codigoparada.sh)
-##### - Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.
+##### (Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.)
 
 ### Outros
 
 * [List_usuarios](\FundamentosTI\exemplos\list_usuarios.sh)
-##### - Esse script vai retornar todos os nomes dos usuários do sistema. (Até os que não são seres humanos)
+##### (Esse script vai retornar todos os nomes dos usuários do sistema.)
 
 * [Permissao_dono](\FundamentosTI\exemplos\permissao_dono.sh)
-##### - Esse script vai receber como parâmetro um nome de um arquivo ou diretório e diga quais permissões o usuário dono tem.
+##### (Esse script vai receber como parâmetro um nome de um arquivo ou diretório e diga quais permissões o usuário dono tem.)
 
 ## <b> Exemplos Java - Lógica Computacional </b>
 
