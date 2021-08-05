@@ -1,4 +1,6 @@
 #!/bin/bash
+# autor Théo Barreto Silva
+# descrição Esse script vai receber como parâmetro um nome de um arquivo ou diretório e dizer quais permissões o usuário dono tem.
 info=$(ls -ld $1)
 permr=${info:1:1}
 permw=${info:2:1}
