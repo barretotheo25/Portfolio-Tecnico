@@ -1,3 +1,4 @@
 #!/bin/bash
-lista_usuarios=$(cut -d" " -f1 /etc/passwd)
-echo "$lista_usuarios"
+var=$(cut -d: -f1 /etc/passwd)
+echo "Os usuários do sistema são:"
+echo $var
