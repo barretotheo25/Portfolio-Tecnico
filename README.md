@@ -46,7 +46,7 @@
 * [Positivo e negativo](\FundamentosTI\exemplos\positivo_negativo.sh)
 ##### (Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.)
 
-* [Estru_condi](/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/estru_condi.sh)
+* [Estru_condi](\FundamentosTI\exemplos\estru_condi.sh)
 ##### (Esse script vai pedir a idade do usuário e dizer se ele pode beber bebidas alcóolicas nos EUA.)
 
 ### While
