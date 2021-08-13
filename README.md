@@ -46,6 +46,9 @@
 * [Positivo e negativo](\FundamentosTI\exemplos\positivo_negativo.sh)
 ##### (Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.)
 
+* [Estru_condi](\FundamentosTIZexemplos\estru_condi.sh)
+##### (Esse script vai pedir a idade do usuário e dizer se ele pode beber bebidas alcóolicas nos EUA.)
+
 ### While
 
 * [Ordem Crescente](\FundamentosTI\exemplos\ordem_crescente.sh)
@@ -53,6 +56,9 @@
 
 * [Ordem Decrescente](\FundamentosTI\exemplos\ordem_decrescente.sh)
 ##### (Esse script vai imprimir os números de 1 a 10 em ordem decrescente.)
+
+* [estru_repeti](\FundamentosTI\exemplos\estru_repeti.sh)
+##### (Esse script vai pedir um número para o usuário e vai listar os números entre 1 e "o número digitado".)
 
 ### For
 
