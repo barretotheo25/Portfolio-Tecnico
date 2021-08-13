@@ -76,6 +76,12 @@
 * [Permissionamento](\FundamentosTI\exemplos\permissao_dono.sh)
 ##### (Esse script vai receber como parâmetro um nome de um arquivo ou diretório e dizer quais permissões o usuário dono tem.)
 
+* [Nome_usu_nhumanos](\FundamentosTI\avaliacao_pratica)
+##### (Esse script vai retornar todos os nomes dos usuários do sistema que não são humanos.)
+
+* [Permi_outr_usua](\FundamentosTI\avaliacao_pratica)
+##### (Esse script vai receber como parâmetro um nome de um arquivo ou diretório e dizer quais permissões outros usuários tem.)
+
 ## <b> Exemplos Java - Lógica Computacional </b>
 
 * [Vetores](LogicaComputacional\exemplos\Vetores.java)
