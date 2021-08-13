@@ -57,7 +57,7 @@
 * [Ordem Decrescente](\FundamentosTI\exemplos\ordem_decrescente.sh)
 ##### (Esse script vai imprimir os números de 1 a 10 em ordem decrescente.)
 
-* [estru_repeti](\FundamentosTI\exemplos\estru_repeti.sh)
+* [Estru_repeti](\FundamentosTI\exemplos\estru_repeti.sh)
 ##### (Esse script vai pedir um número para o usuário e vai listar os números entre 1 e "o número digitado".)
 
 ### For
