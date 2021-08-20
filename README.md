@@ -38,7 +38,7 @@
 
 ## <b> Exemplos Shell - Fundamentos de TI </b>
 
-### If/Else
+## If/Else
 
 * [Votação](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/vota%C3%A7%C3%A3o.sh)
 ##### (Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
