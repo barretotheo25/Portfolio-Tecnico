@@ -43,49 +43,49 @@
 * [Votação](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/vota%C3%A7%C3%A3o.sh)
 ##### (Esse script vai pedir ao usuário o ano atual, depois pedirá o ano de nascimento do usuário. Então, dirá se a pessoa pode votar ou não.)
 
-* [Positivo e negativo](\FundamentosTI\exemplos\positivo_negativo.sh)
+* [Positivo e negativo](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/positivo_negativo.sh)
 ##### (Esse script vai pedir ao usuário um valor e em seguida vai dizer se o valor é negativo ou positivo.)
 
-* [Estru_condi](\FundamentosTI\exemplos\estru_condi.sh)
+* [Estru_condi](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/estru_condi.sh)
 ##### (Esse script vai pedir a idade do usuário e dizer se ele pode beber bebidas alcóolicas nos EUA.)
 
 ### While
 
-* [Ordem Crescente](\FundamentosTI\exemplos\ordem_crescente.sh)
+* [Ordem Crescente](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/ordem_crescente.sh)
 ##### (Esse script vai imprimir os números de 1 a 10 em ordem crescente.)
 
-* [Ordem Decrescente](\FundamentosTI\exemplos\ordem_decrescente.sh)
+* [Ordem Decrescente](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/ordem_decrescente.sh)
 ##### (Esse script vai imprimir os números de 1 a 10 em ordem decrescente.)
 
-* [Estru_repeti](\FundamentosTI\exemplos\estru_repeti.sh)
+* [Estru_repeti](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/estru_repeti.sh)
 ##### (Esse script vai pedir um número para o usuário e vai listar os números entre 1 e "o número digitado".)
 
 ### For
 
-* [Vetor_3nomes_for](\FundamentosTI\exemplos\vetor_3nomes_for.sh)
+* [Vetor_3nomes_for](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/vetor_3nomes_for.sh)
 ##### (Esse script vai fazer um loop com 3 nomes, utilizando o for, ele vai imprimir "Oi, eu sou ____".)
 
-* [Vetor_nomes_codigoparada](\FundamentosTI\exemplos\vetor_nomes_codigoparada.sh)
+* [Vetor_nomes_codigoparada](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/vetor_nomes_codigoparada.sh)
 ##### (Esse script vai pedir para o usuário nomes de pessoas utilizando loop. Ele vai parar de pedir a próxima pessoa quando o usuário digitar um “código de parada”. No final vai dizer quantidade de pessoas digitadas.)
 
 ### Outros
 
-* [List_usuarios](\FundamentosTI\exemplos\list_usuarios.sh)
+* [List_usuarios](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/list_usuarios.sh)
 ##### (Esse script vai retornar todos os usuários do sistema.)
 
-* [Permissionamento](\FundamentosTI\exemplos\permissao_dono.sh)
+* [Permissionamento](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/exemplos/permissionamento.sh)
 ##### (Esse script vai receber como parâmetro um nome de um arquivo ou diretório e dizer quais permissões o usuário dono tem.)
 
-* [Nome_usu_nhumanos](\FundamentosTI\avaliacao_pratica)
+* [Nome_usu_nhumanos](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/avaliacao_pratica/nome_usu_nhumanos.sh)
 ##### (Esse script vai retornar todos os nomes dos usuários do sistema que não são humanos.)
 
-* [Permi_outr_usua](\FundamentosTI\avaliacao_pratica)
+* [Permi_outr_usua](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/avaliacao_pratica/permi_outr_usua.sh)
 ##### (Esse script vai receber como parâmetro um nome de um arquivo ou diretório e dizer quais permissões outros usuários tem.)
 
 ## <b> Exemplos Java - Lógica Computacional </b>
 
-* [Vetores](LogicaComputacional\exemplos\Vetores.java)
+* [Vetores](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/LogicaComputacional/exemplos/Vetores.java)
 
-* [Idade Atual](\LogicaComputacional\exemplos\Idade_atual.java)
+* [Idade Atual](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/LogicaComputacional/exemplos/Idade_atual.java)
 
-* [Programa de Juros](\LogicaComputacional\exemplos\Programa_juros.java)
+* [Programa de Juros](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/LogicaComputacional/exemplos/Programa_juros.java)
