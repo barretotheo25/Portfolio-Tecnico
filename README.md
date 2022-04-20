@@ -87,3 +87,7 @@
 * [Idade Atual](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/LogicaComputacional/exemplos/Idade_atual.java)
 
 * [Programa de Juros](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/LogicaComputacional/exemplos/Programa_juros.java)
+
+## <b> Exemplos de Modelagem de Sistemas </b>
+
+* [Sistema de Transporte Público](
