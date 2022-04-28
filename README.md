@@ -90,4 +90,12 @@
 
 ## <b> Exemplos de Modelagem de Sistemas </b>
 
-* [Sistema de Transporte Público](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Sistema_De_Transporte)
+* [Sistema de Transporte Público](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Sistema_De_Transporte) - Eu escolhi essa atividade pois ela colocou o meu conhecimento em jogo e eu percebi que eu entendo bem da matéria.
+
+* [Sistema de Presídio](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Presidio) - Eu escolhi essa atividade pois foi uma atividade longa, porém divertida de ser feita.
+
+* [Sistema de confeitaria e bolo](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Confeitaria-Bolo.java) - Eu escolhi essa atividade pois ela foi uma das primeiras que nós fizemos, e eu percebi que sabia a matéria.
+
+## <b> Exemplos de Banco de Dados </b>
+
+* [Atividade sobre funções](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/Atividade_Funcoes.sql) - 
