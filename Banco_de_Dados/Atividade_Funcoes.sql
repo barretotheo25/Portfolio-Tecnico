@@ -31,10 +31,10 @@ $$ language PLPGSQL
 --4) Atualizar valores na tabela utilizando a função feita. (dica: UPDATE ____ SET _____)--
 update mercado set preco = aumento_10(preco)
 
---5) Criar uma nova função aumento onde
-- valores acima de 100 tem um aumento de 20%
-- entre 50 e 100 aumento de 10%
-- abaixo de 50 aumento de 5%--
+--5) Criar uma nova função aumento onde--
+-- - valores acima de 100 tem um aumento de 20%--
+-- - entre 50 e 100 aumento de 10%--
+-- - abaixo de 50 aumento de 5%--
 create function aumento(preco numeric) returns numeric as $$
 	declare
 		aumento numeric;
