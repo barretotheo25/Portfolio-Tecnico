@@ -80,7 +80,7 @@
 * [Permi_outr_usua](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/FundamentosTI/avaliacao_pratica/permi_outr_usua.sh)
 ##### (Esse script vai receber como parâmetro um nome de um arquivo ou diretório e dizer quais permissões outros usuários tem.)
 
-## <b> Exemplos Java - Lógica Computacional </b>
+## <b> Lógica Computacional </b>
 
 * [Vetores](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/LogicaComputacional/exemplos/Vetores.java)
 
@@ -90,4 +90,4 @@
 
 ## <b> Exemplos de Modelagem de Sistemas </b>
 
-* [Sistema de Transporte Público](
+* [Sistema de Transporte Público](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Sistema_De_Transporte)
