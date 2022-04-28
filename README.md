@@ -90,11 +90,11 @@
 
 ## <b> Exemplos de Modelagem de Sistemas </b>
 
-* [Sistema de Transporte Público](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Sistema_De_Transporte) - Eu escolhi essa atividade pois ela colocou o meu conhecimento em jogo e eu percebi que eu entendo bem da matéria.
+* [Sistema de Transporte Público](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Sistema_De_Transporte) - Eu escolhi essa atividade pois ela colocou o meu conhecimento em jogo.
 
 * [Sistema de Presídio](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Presidio) - Eu escolhi essa atividade pois foi uma atividade longa, porém divertida de ser feita.
 
-* [Sistema de confeitaria e bolo](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Confeitaria-Bolo.java) - Eu escolhi essa atividade pois ela foi uma das primeiras que nós fizemos, e eu percebi que sabia a matéria.
+* [Sistema de confeitaria e bolo](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Confeitaria-Bolo.java) - Eu escolhi essa atividade pois ela foi uma das primeiras que nós fizemos.
 
 ## <b> Exemplos de Banco de Dados </b>
 
@@ -103,3 +103,11 @@
 * [Atividade sobre Zoológico](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/Exercicio_Zoologico.sql) - Eu escolhi essa atividade pois ela foi divertida de ser feita.
 
 * [Atividade sobre Rede de Cinemas](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/Rede_Cinemas.sql) - Eu escolhi essa atividade pois ela foi passada para ser apresentada e foi divertida de fazer.
+
+## <b> Exemplos de Programação de Aplicativos </b>
+
+* [Atividade sobre acessar a câmera](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/Acesso_Camera) - Eu escolhi essa atividade pois me ensinou a pedir permissão pelo aplicativo.
+
+* [Atividade sobre Calcular o tempo](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/CalculadoraTempo) - Eu escolhi essa atividade pois ela era complexa.
+
+* [Atividade sobre Fórmulas da Geometria Espacial](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/GeometriaEspacial) - Eu escolhi essa atividade pois ela me ajudou em alguns exercícios de matemática.
