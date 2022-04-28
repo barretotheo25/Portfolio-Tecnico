@@ -21,8 +21,7 @@ values
 (8, 84000.00, 37000.00, 87600.90, ‘agosto/2020’, 15800.00, 64800.00),
 (9, 23000.00, 38000.00, 88600.90, ‘setembro/2020’, 16100.00, 62900.00),
 (10, 28000.00, 39000.00, 89200.90, ‘outubro/2020’, 16300.00, 61500.00)
---  --
-
+-----------------------------------------------------------------------
 create table Filmes(
 	Id int primary key,
 	Nome varchar,
@@ -33,12 +32,12 @@ create table Filmes(
 	Diretor varchar
 );
 Rede_cinemas=# \copy Filmes from 'C:\Users\theo_b_silva\Documents\Filmes.csv' delimiter ',' csv header
-
+-----------------------------------------------------------------------
 create table Clientes(
 	CPF varchar primary key,
 	Nome varchar,
 	Idade int
-)
+);
 
 insert into Clientes
 (CPF, Nome, Idade)
@@ -53,7 +52,7 @@ values
 ('413.091.564-92', 'Eduarda Franderlinde', 43),
 ('763.120.854-90', 'Clarissa Assunção', 24),
 ('343.852.684-01', 'Théo Barreto Silva', 55)
-
+-----------------------------------------------------------------------
 create table Bilheteria(
 	Id int primary key,
 	Valor decimal (4,2),
@@ -75,6 +74,7 @@ values
 (62, 30.00, '413.091.564-92', 'Dinheiro', 'Sala 4'),
 (12, 15.00, '763.120.854-90', 'Dinheiro', 'Sala 1'),
 (56, 15.00, '343.852.684-01', 'Dinheiro', 'Sala 2')
+-----------------------------------------------------------------------
 create table Funcionarios(
 	PIS varchar primary key,
 	Nome varchar,
@@ -91,7 +91,7 @@ values
 (‘554.46124.15-5’, ‘Júliazinha’, ‘Varrer chão’, ‘12950.50’, ‘24 horas’),
 (‘534.56224.18-4’, ‘Juberta Marilda’, ‘Lanchonete’, ‘4950.40’, ‘15 horas’);
 (‘546.64291.78-2’, ‘Marizinha da Potranca’, ‘Bilheteria’, ‘3500.00’, ‘12 horas’)
-
+-----------------------------------------------------------------------
 create table Lanchonete(
 	Cod int primary key,
 	Podutos varchar,
@@ -108,7 +108,7 @@ values
 (3, 'Salsicha frita delicia', 6.00 '2022-03-18', '71.852.963/0001-56'),
 (4, 'Pureza - 2 Litros', 15.00, '2022-05-22', '45.126.129/0001-88'),
 (5, 'Sorvete Napolitano', 25.00, '2025-04-23', '45.126.129/0001-88')
-
+-----------------------------------------------------------------------
 create table Fornecedores(
 	CNPJ varchar primary key,
 	Nome varchar,
@@ -119,7 +119,7 @@ create table Fornecedores(
 	Quantidade int
 );
 Rede_cinemas=# \copy Fornecedores from 'C:\Users\theo_b_silva\Documents\Fornecedores.csv' delimiter ',' csv header
-
+-----------------------------------------------------------------------
 create table sessoes(
 cod_filme int,
 cod_bilheteria int
