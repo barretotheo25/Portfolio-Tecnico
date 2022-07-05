@@ -4,8 +4,6 @@
 
 <b> E-mail: </b> barretotheo25@gmail.com
 
-<b> Telefone para contato: </b> (48) 99122-7701
-
 ## <b> Formação Acadêmica </b>
 
 <b> Ensino Fundamental I e II </B> - Colégio Gardner (2009 - 2019)
