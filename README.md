@@ -86,7 +86,7 @@
 
 * [Programa de Juros](https://github.com/barretotheo25/Portfolio-Tecnico-2B/blob/main/LogicaComputacional/exemplos/Programa_juros.java)
 
-## <b> Exemplos de Modelagem de Sistemas </b>
+## <b> Modelagem de Sistemas </b>
 
 * [Sistema de Transporte Público](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Sistema_De_Transporte) - Eu escolhi essa atividade pois ela colocou o meu conhecimento em jogo.
 
@@ -94,7 +94,7 @@
 
 * [Sistema de confeitaria e bolo](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Modelagem_De_Sistemas/Confeitaria-Bolo.java) - Eu escolhi essa atividade pois ela foi uma das primeiras que nós fizemos.
 
-## <b> Exemplos de Banco de Dados </b>
+## <b> Banco de Dados </b>
 
 ### 1° trimestre
 
@@ -108,10 +108,16 @@
 
 * [Projeto final matéria de Banco de Dados](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/EstoCar) - Eu escolhi essa atividade pois foi uma atividade diferenciada, pois foi feita no NetBeans
 
-## <b> Exemplos de Programação de Aplicativos </b>
+## <b> Programação de Aplicativos </b>
+
+### 1° trimestre
 
 * [Atividade sobre acessar a câmera](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/Acesso_Camera) - Eu escolhi essa atividade pois me ensinou a pedir permissão pelo aplicativo.
 
 * [Atividade sobre Calcular o tempo](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/CalculadoraTempo) - Eu escolhi essa atividade pois ela era complexa.
 
 * [Atividade sobre Fórmulas da Geometria Espacial](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/GeometriaEspacial) - Eu escolhi essa atividade pois ela me ajudou em alguns exercícios de matemática.
+
+### 2° trimestre
+
+* [App para controle de uso de cigarro]() - Eu escolhi esse projeto por causa de ele ter sido um projeto que fez eu me aprofundar na parte de back-end de programação de aplicativos.
