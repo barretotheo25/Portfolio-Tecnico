@@ -128,4 +128,6 @@
 
 ## <b> Desenvolvimento de Sistemas </b>
 
+### 2° trimestre
+
 * [LittleTesteVocacional](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Desenvolvimento_de_Sistemas/LittleTesteVocacional) - Eu escolhi esse projeto por conta de ele ter sido um projeto em que eu me esforcei bastante, usei diversas funções novas e etc.
