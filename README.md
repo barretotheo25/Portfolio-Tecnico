@@ -96,6 +96,8 @@
 
 ## <b> Exemplos de Banco de Dados </b>
 
+### 1° trimestre
+
 * [Atividade sobre funções](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/Atividade_Funcoes.sql) - Eu escolhi essa atividade pois ela exercitou o meu conhecimento sobre funções.
 
 * [Atividade sobre Zoológico](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/Exercicio_Zoologico.sql) - Eu escolhi essa atividade pois ela foi divertida de ser feita.
