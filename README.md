@@ -106,6 +106,8 @@
 
 ### 2° trimestre
 
+* [Teste vocacional - LittleTesteVocacional]() - Eu escolhi esse projeto por conta de ele ter sido um projeto em que eu me esforcei bastante, usei diversas funções novas e etc.
+
 * [Projeto final matéria de Banco de Dados](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/EstoCar) - Eu escolhi essa atividade pois foi uma atividade diferenciada, pois foi feita no NetBeans
 
 ## <b> Programação de Aplicativos </b>
@@ -119,6 +121,8 @@
 * [Atividade sobre Fórmulas da Geometria Espacial](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/GeometriaEspacial) - Eu escolhi essa atividade pois ela me ajudou em alguns exercícios de matemática.
 
 ### 2° trimestre
+
+* [Teste vocacional - LittleTesteVocacional]() - Eu escolhi esse projeto por conta de ele ter sido um projeto em que eu me esforcei bastante, usei diversas funções novas e etc.
 
 * [App para controle de uso de cigarro](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/unSmoke) - Eu escolhi esse projeto por causa de ele ter sido um projeto que fez eu me aprofundar na parte de back-end de programação de aplicativos.
 
