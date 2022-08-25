@@ -131,3 +131,5 @@
 ### 2° trimestre
 
 * [LittleTesteVocacional](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Desenvolvimento_de_Sistemas/LittleTesteVocacional) - Eu escolhi esse projeto por conta de ele ter sido um projeto em que eu me esforcei bastante, usei diversas funções novas e etc.
+
+* [HealthCare - em desenvolvimento](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Desenvolvimento_de_Sistemas/HealthCare) - Esse é o projeto final da matéria de Desenvolvimento de Sistemas, ainda está em desenvolvimento, porém sei que vamos dar tudo o que pudermos para deixar esse projeto perfeito!
