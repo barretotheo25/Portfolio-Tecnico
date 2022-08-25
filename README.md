@@ -120,4 +120,4 @@
 
 ### 2° trimestre
 
-* [App para controle de uso de cigarro]() - Eu escolhi esse projeto por causa de ele ter sido um projeto que fez eu me aprofundar na parte de back-end de programação de aplicativos.
+* [App para controle de uso de cigarro](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/unSmoke) - Eu escolhi esse projeto por causa de ele ter sido um projeto que fez eu me aprofundar na parte de back-end de programação de aplicativos.
