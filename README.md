@@ -102,6 +102,10 @@
 
 * [Atividade sobre Rede de Cinemas](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/Rede_Cinemas.sql) - Eu escolhi essa atividade pois ela foi passada para ser apresentada e foi divertida de fazer.
 
+### 2° trimestre
+
+* [Projeto final matéria de Banco de Dados](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/EstoCar) - Eu escolhi essa atividade pois foi uma atividade diferenciada, pois foi feita no NetBeans
+
 ## <b> Exemplos de Programação de Aplicativos </b>
 
 * [Atividade sobre acessar a câmera](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Programa%C3%A7%C3%A3o_de_Aplicativos/Acesso_Camera) - Eu escolhi essa atividade pois me ensinou a pedir permissão pelo aplicativo.
