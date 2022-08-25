@@ -106,7 +106,7 @@
 
 ### 2° trimestre
 
-* [LittleTesteVocacional]() - Eu escolhi esse projeto por conta de ele ter sido um projeto em que eu me esforcei bastante, usei diversas funções novas e etc.
+* [LittleTesteVocacional](https://github.com/barretotheo25/Portfolio-Tecnico/tree/main/Banco_de_Dados/LittleTesteVocacional) - Eu escolhi esse projeto por conta de ele ter sido um projeto em que eu me esforcei bastante, usei diversas funções novas e etc.
 
 * [Projeto final matéria de Banco de Dados](https://github.com/barretotheo25/Portfolio-Tecnico/blob/main/Banco_de_Dados/EstoCar) - Eu escolhi essa atividade pois foi uma atividade diferenciada, pois foi feita no NetBeans
 
